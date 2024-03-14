@@ -5,7 +5,7 @@ CryptoBot é um bot de Discord desenvolvido para enviar mensagens atualizando os
 ## Instalação
 
 1. Clone este repositório:
-git clone https://github.com/seu-usuario/CryptoBot.git
+git clone https://github.com/TheLuckziN/CryptoBot.git
 
 2. Instale as dependências:
 npm install
