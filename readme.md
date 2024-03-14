@@ -16,7 +16,7 @@ npm install
 Antes de executar o bot, você precisa configurar algumas variáveis de ambiente:
 
 - `DISCORD_TOKEN`: Token do seu bot do Discord. Você pode obter isso criando um novo bot no [Painel de Desenvolvedor do Discord](https://discord.com/developers/applications).
-- Adocione seu token em config.json
+- Adicione seu token em config.json
 
 ## Uso
 
