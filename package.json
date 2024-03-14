@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2"
+  },
+  "name": "cryptostats",
+  "version": "1.0.0",
+  "description": "Um bot de discord desenvolvido na v14 de discormensagem com atualizações sobre o mercado das criptomoedas, assim que envia de minutos em minutos ele atualiza a lista editando a mensagem",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/TheLuckziN"
+  },
+  "keywords": [
+    "\u0016"
+  ],
+  "author": "https://github.com/TheLuckziN\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[CLuckzin \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[ (https://github.com/TheLuckziN)",
+  "license": "ISC"
+}
