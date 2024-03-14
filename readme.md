@@ -21,7 +21,7 @@ Antes de executar o bot, você precisa configurar algumas variáveis de ambiente
 ## Uso
 
 Para iniciar o bot, execute o seguinte comando:
-node bot.js
+node .
 
 
 O bot enviará mensagens atualizando os valores das criptomoedas em intervalos regulares no canal especificado.
