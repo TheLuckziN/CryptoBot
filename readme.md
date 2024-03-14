@@ -38,7 +38,7 @@ Contribuições são bem-vindas! Se você deseja contribuir com este projeto, si
 
 ## Licença
 
-Este foi totalmente feito por mim Lucas 'Luckzin' Gabriel (https://github.com/TheLuckziN) Favor não tirar os créditos.
+Este bot foi totalmente feito por mim Lucas 'Luckzin' Gabriel (https://github.com/TheLuckziN) Favor não tirar os créditos.
 
 ## Suporte
 
